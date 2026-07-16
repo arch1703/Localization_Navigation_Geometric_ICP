@@ -11,12 +11,11 @@ This project combines:
 
 ## Source Attribution
 
-This repository is credited to the original upstream work by DigiMark2035, which appears in the initial commit history and contributor metadata.
+This project builds on course material and prior work from:
 
-- Original project author in history: DigiMark2035
-- Initial commit in this repository: 720bdf3 ("Initial commit: add all project files")
-
-If you want to reference a specific upstream repository URL in this section, add it directly here once confirmed.
+- NYU ROB-GY 6213: Robot Localization & Navigation
+- Chris Clark
+- https://github.com/cmclarkk/NYU_ROB_GY_6213
 
 ## System Overview
 
